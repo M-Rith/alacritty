@@ -14,7 +14,7 @@ dimensions = { columns = 150, lines = 50}
 # make it always centered
 # dynamic_padding = true
 
-opacity = 0.5
+opacity = 0.8
 blur = true
 
 option_as_alt = "Both"
